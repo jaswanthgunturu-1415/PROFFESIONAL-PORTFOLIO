@@ -1,2 +1,4 @@
 # PROFFESIONAL-PORTFOLIO
 This a documnetation of my leraning phase of my cybersecurity proffesion   and this includes my certification journey of learning, projects and technical skills
+PROFFESIONAL STATEMENT:
+I am a motivated BTech Computer Science student and an aspiring cybersecurity professional, currently building my foundation through my first cybersecurity certification. I am curious, detail-oriented, and committed to continuous learning, with a strong interest in understanding security threats, protecting information, and developing practical problem-solving skills. I value responsibility, integrity, and secure technology, and I aim to continuously strengthen my technical knowledge so I can contribute to organizations by identifying security risks, protecting systems and data, and supporting a strong security posture.
